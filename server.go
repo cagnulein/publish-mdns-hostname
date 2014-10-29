@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/davecheney/mdns"
 	"github.com/docopt/docopt-go"
+	"github.com/homburg/mdns"
 	"log"
 )
 

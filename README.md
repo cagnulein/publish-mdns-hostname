@@ -11,7 +11,7 @@ Serve and publish an mdns a record for a given hostname and ip
 
 (Given a functional golang install: http://golang.org/)
 
-	go get -u github.com/homburg/publish-mdns-hostname
+	go install github.com/homburg/publish-mdns-hostname@latest
 
 ## LICENSE
 
